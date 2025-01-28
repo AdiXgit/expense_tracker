@@ -1,6 +1,6 @@
 # Expense Tracker
 
-This is a simple expense tracker application developed using JavaScript, HTML, and CSS.
+This is a simple expense tracker application developed using MERN STACK.
 
 ## Features
 
