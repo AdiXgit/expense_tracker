@@ -1,6 +1,6 @@
 # Expense Tracker
 
-This is a simple expense tracker application developed using MERN STACK.
+This is a simple expense tracker application developed using MERN STACK. [STILL BUILDING :| ]
 
 ## Features
 
